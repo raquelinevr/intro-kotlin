@@ -134,7 +134,7 @@ fun menu() {
     println("4 - Listar Animais")
     println("5 - Emitir som")
     println("6 - Remover um animal ")
-    println("111 - Sair")
+    println("10 - Sair")
 }
 
 class RepositorioAnimal {
